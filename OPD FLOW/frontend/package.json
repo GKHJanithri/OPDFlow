@@ -1,0 +1,10 @@
+{
+  "name": "opdflow-frontend-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"opd flow\" run dev",
+    "build": "npm --prefix \"opd flow\" run build",
+    "lint": "npm --prefix \"opd flow\" run lint",
+    "preview": "npm --prefix \"opd flow\" run preview"
+  }
+}
